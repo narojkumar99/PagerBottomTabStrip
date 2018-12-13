@@ -25,7 +25,7 @@ Android 页面底部和侧边的导航栏。
 |---|
 |![PagerBottomTabStrip](/img/demo5.gif "PagerBottomTabStrip")|
 
-|Demo中的例子|Demo中的例子|
+|Demo中的例子|Demo中的|
 |---|---|
 |![PagerBottomTabStrip](/img/demo7.png "PagerBottomTabStrip")|![PagerBottomTabStrip](/img/demo6.png "PagerBottomTabStrip")|
 
